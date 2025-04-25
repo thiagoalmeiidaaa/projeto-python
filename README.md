@@ -99,4 +99,3 @@ Depois acesse em `http://127.0.0.1:8000`
 - Thiago Almeida
 - Gabriel Boelter
 
-Trabalho acadêmico. Todos os dados são simulados apenas para fins didáticos.
