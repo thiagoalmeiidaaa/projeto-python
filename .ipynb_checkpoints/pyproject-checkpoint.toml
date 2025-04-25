@@ -1,0 +1,16 @@
+
+[tool.poetry]
+name = "spark-delta-iceberg"
+version = "0.1.0"
+description = "Ambiente com Delta Lake e Apache Iceberg usando PySpark"
+authors = ["Gabriel Frello", "Thiago Almeida", "Gabriel Boelter"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyspark = "^3.5.0"
+delta-spark = "^3.0.0"
+jupyterlab = "^4.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,5 @@
+
+site_name: Spark Delta e Iceberg Docs
+nav:
+  - Delta Lake: mkdocs/delta.md
+  - Apache Iceberg: mkdocs/iceberg.md
